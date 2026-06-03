@@ -69,7 +69,7 @@ piyush_dave = {
         <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
         <img src="https://img.shields.io/badge/Seaborn-3776AB?style=flat&logo=python&logoColor=white"/>
       </p>
-      <a href="https://github.com/PiyushDave30/data-analyst-project-portfolio/tree/main/06_IPL-18-Season-Analysis">View Project →</a>
+      <a href="https://github.com/PiyushDave30/data-analyst-project-portfolio/tree/main/06_IPL-Analysis">View Project →</a>
     </td>
     <td width="50%">
       <h3>🌫️ Amravati AQI 2024</h3>
