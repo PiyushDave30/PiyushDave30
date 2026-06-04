@@ -11,7 +11,7 @@
   <a href="https://public.tableau.com/app/profile/piyushdave/vizzes">
     <img src="https://img.shields.io/badge/Tableau-Public-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
   </a>
-  <a href="mailto:piyushdave@email.com">
+  <a href="mailto:piyushdave3008@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
