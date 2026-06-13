@@ -1,8 +1,8 @@
 <div align="center">
 
-# 👋 Hey there! I'm Piyush Dave
+# Hey there! I'm Piyush Dave
 
-### 🎯 Aspiring Data Analyst | Turning Raw Data into Business Insights
+### Aspiring Data Analyst | Turning Raw Data into Business Insights
 
 <p>
   <a href="https://www.linkedin.com/in/piyush-dave-0980a03a8">
@@ -20,7 +20,7 @@
 
 ---
 
-## 👤 About Me
+## About Me
 
 ```python
 piyush_dave = {
@@ -38,7 +38,7 @@ piyush_dave = {
 
 ---
 
-## 🛠️ My Tech Stack
+## My Tech Stack
 
 <div align="center">
 
@@ -57,12 +57,12 @@ piyush_dave = {
 
 ---
 
-## 📁 Featured Projects
+## Featured Projects
 
 <table>
   <tr>
     <td width="50%">
-      <h3>🏏 IPL 18-Season Analysis</h3>
+      <h3> IPL 18-Season Analysis</h3>
       <p>Complete EDA on 18 seasons of IPL cricket — 1,169 matches, 2,78,205 deliveries, 44+ charts, 156 notebook cells with zero errors</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
@@ -72,7 +72,7 @@ piyush_dave = {
       <a href="https://github.com/PiyushDave30/data-analyst-project-portfolio/tree/main/06_IPL-Analysis">View Project →</a>
     </td>
     <td width="50%">
-      <h3>🌫️ Amravati AQI 2024</h3>
+      <h3> Amravati AQI 2024</h3>
       <p>Original data collected from India's official CPCB government website — Python cleaning → Power BI dashboard. 366 days, Avg AQI 85.86, Q3 monsoon best at 38.95</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
@@ -83,7 +83,7 @@ piyush_dave = {
   </tr>
   <tr>
     <td width="50%">
-      <h3>🍕 Swiggy Food Analysis</h3>
+      <h3> Swiggy Food Analysis</h3>
       <p>Advanced SQL analysis on 1,97,430 orders across 28 cities — 2 views, 2 stored procedures, window functions, REGEXP, CASE WHEN</p>
       <p>
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
@@ -91,7 +91,7 @@ piyush_dave = {
       <a href="https://github.com/PiyushDave30/data-analyst-project-portfolio/tree/main/09_Swiggy-Analysis">View Project →</a>
     </td>
     <td width="50%">
-      <h3>🏨 Hospitality Analysis</h3>
+      <h3> Hospitality Analysis</h3>
       <p>Hotel booking & revenue analysis for Atliq Hotels — ₹1.71bn revenue, 135K bookings, 4-page Power BI dashboard, 11 SQL queries</p>
       <p>
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
@@ -105,37 +105,37 @@ piyush_dave = {
 
 ---
 
-## 📊 What I Have Built
+## What I Have Built
 
 <div align="center">
 
 | | |
 |---|---|
-| 🗄️ **SQL Projects** | Adventure Works · Hospitality · HR Attrition · Zomato · Bank Loan · Swiggy |
-| 📊 **Power BI Dashboards** | Adventure Works · Hospitality · HR Attrition · Blinkit · India Sales · AQI |
-| 📈 **Tableau Dashboards** | Adventure Works · Hospitality · HR Attrition · Zomato |
-| 🐍 **Python Projects** | IPL 18-Season EDA · Amravati AQI Cleaning |
-| 📗 **Excel Dashboards** | Adventure Works · Hospitality · HR Attrition · Blinkit |
+|  **SQL Projects** | Adventure Works · Hospitality · HR Attrition · Zomato · Bank Loan · Swiggy |
+|  **Power BI Dashboards** | Adventure Works · Hospitality · HR Attrition · Blinkit · India Sales · AQI |
+|  **Tableau Dashboards** | Adventure Works · Hospitality · HR Attrition · Zomato |
+|  **Python Projects** | IPL 18-Season EDA · Amravati AQI Cleaning |
+|  **Excel Dashboards** | Adventure Works · Hospitality · HR Attrition · Blinkit |
 
 </div>
 
 ---
 
-## 🏆 By The Numbers
+## By The Numbers
 
 <div align="center">
 
-🗂️ **10 Projects** &nbsp;&nbsp;|&nbsp;&nbsp; 📊 **15+ Dashboards** &nbsp;&nbsp;|&nbsp;&nbsp; 🗄️ **150+ SQL Queries** &nbsp;&nbsp;|&nbsp;&nbsp; 🐍 **44+ Python Charts**
+**10 Projects** &nbsp;&nbsp;|&nbsp;&nbsp; **15+ Dashboards** &nbsp;&nbsp;|&nbsp;&nbsp; **150+ SQL Queries** &nbsp;&nbsp;|&nbsp;&nbsp; **44+ Python Charts**
 
-📦 **2,78,205** IPL deliveries analyzed &nbsp;&nbsp;|&nbsp;&nbsp; 🍕 **1,97,430** Swiggy orders analyzed
+**2,78,205** IPL deliveries analyzed &nbsp;&nbsp;|&nbsp;&nbsp; **1,97,430** Swiggy orders analyzed
 
-🌫️ Real AQI data from **CPCB Government Website** &nbsp;&nbsp;|&nbsp;&nbsp; ⭐ **0 errors** in IPL notebook
+Real AQI data from **CPCB Government Website** &nbsp;&nbsp;|&nbsp;&nbsp; **0 errors** in IPL notebook
 
 </div>
 
 ---
 
-## 📬 Let's Connect
+## Let's Connect
 
 I am actively looking for **full-time Data Analyst opportunities**. If you are hiring or know someone who is, I would love to connect!
 
