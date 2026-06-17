@@ -2,7 +2,7 @@
 
 # Hey there! I'm Piyush Dave
 
-### Aspiring Data Analyst | Turning Raw Data into Business Insights
+### Aspiring Data Analyst | Turning Raw Data into Business Insights 
 
 <p>
   <a href="https://www.linkedin.com/in/piyush-dave-0980a03a8">
