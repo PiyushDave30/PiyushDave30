@@ -112,7 +112,7 @@ piyush_dave = {
 | | |
 |---|---|
 |  **SQL Projects** | Adventure Works · Hospitality · HR Attrition · Zomato · Bank Loan · Swiggy |
-|  **Power BI Dashboards** | Adventure Works · Hospitality · HR Attrition · Blinkit · India Sales · AQI |
+|  **Power BI Dashboards** | Adventure Works · Hospitality · HR Attrition · Blinkit · India Sales · AQI · Coffee Shop Analysis|
 |  **Tableau Dashboards** | Adventure Works · Hospitality · HR Attrition · Zomato |
 |  **Python Projects** | IPL 18-Season EDA · Amravati AQI Cleaning |
 |  **Excel Dashboards** | Adventure Works · Hospitality · HR Attrition · Blinkit |
