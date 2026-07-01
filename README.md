@@ -91,14 +91,15 @@ piyush_dave = {
       <a href="https://github.com/PiyushDave30/data-analyst-project-portfolio/tree/main/09_Swiggy-Analysis">View Project →</a>
     </td>
     <td width="50%">
-      <h3> Hospitality Analysis</h3>
-      <p>Hotel booking & revenue analysis for Atliq Hotels — ₹1.71bn revenue, 135K bookings, 4-page Power BI dashboard, 11 SQL queries</p>
+      <h3>Brew Metric - Coffee Shop Analytics</h3>
+      <p>7-page branded Power BI dashboard — 5,000 orders, 5 branches, 17 products, custom PowerPoint background. Iced Latte top product, Banjara Hills top branch, dynamic Quick Analysis page.</p>
       <p>
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
         <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black"/>
-        <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white"/>
+        <img src="https://img.shields.io/badge/PowerPoint-B7472A?style=flat&logo=microsoftpowerpoint&logoColor=white"/>
       </p>
-      <a href="https://github.com/PiyushDave30/data-analyst-project-portfolio/tree/main/02_Hospitality-Analysis">View Project →</a>
+      <a href="https://github.com/PiyushDave30/data-analyst-project-portfolio/tree/main/12_Coffee-Shop-Analytics">View Project →</a>
+    </td>
+  </tr>
     </td>
   </tr>
 </table>
