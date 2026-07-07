@@ -150,7 +150,9 @@ I am actively looking for **full-time Data Analyst opportunities**. If you are h
 
 ---
 
+
 <div align="center">
+⭐ If you find any project useful, feel free to star the repo!
 
 *Open to full-time Data Analyst roles — Amravati, Maharashtra or Remote*
 
